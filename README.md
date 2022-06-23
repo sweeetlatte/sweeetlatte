@@ -1,14 +1,14 @@
 <p>
-  <h1 align="center"><b>Hi, I'm Latte</b> <img src="latte.gif" width="30px"></h1>
+  <h1 align="center"><b>Hi, I'm Latte</b></h1>
 </p> 
-<p align="center">
+<!-- <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Portfolio%20Frontend-965E30?style=flat alt="Portfolio1" />
   </a>&nbsp;
   <a href="https://sweeetlatte.github.io/Portfolio-UX">
     <img src="https://img.shields.io/badge/Portfolio%20UX-965E30?style=flat alt="Portfolio2" />
   </a>&nbsp;
-</p>
+</p> -->
 
 ## About me:
 - 🧸 I'm an enthusiastic frontend developer
