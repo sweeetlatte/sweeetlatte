@@ -13,7 +13,6 @@
 ## About me:
 - 🧸 I'm an enthusiastic frontend developer
 - 🍰 I’m interested in making websites beautiful, functional, and accessible
-- 👜 I’m currently learning ReactJS and UX design
 
 <br/>
 
