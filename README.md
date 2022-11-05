@@ -22,9 +22,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="32" height="32"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs" width="32" height="32"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="visual studio code" width="32" height="32"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="xd.png" alt="xd" width="32" height="32"/>&nbsp;&nbsp;&nbsp;
-<img src="figma.png" alt="figma" width="33" height="33"/>
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweeetlatte&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=000000&bg_color=B08556&border_radius=27&layout=compact" />
