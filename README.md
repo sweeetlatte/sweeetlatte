@@ -16,13 +16,6 @@
 
 <br/>
 
-## My projects:
-
-[![Project Badge](https://github-readme-stats.vercel.app/api/pin?username=sweeetlatte&hide_border=true&repo=chito-stationery-fe&bg_color=694127,965E30,B08556&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=27)](https://github.com/sweeetlatte/chito-stationery-fe)
-[![Project Badge](https://github-readme-stats.vercel.app/api/pin?username=sweeetlatte&hide_border=true&repo=chito-stationery-admin-dashboard&bg_color=694127,965E30,B08556&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=27)](https://github.com/sweeetlatte/chito-stationery-admin-dashboard)
-
-<br/>
-
 ## Languages & tools:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/>&nbsp;
