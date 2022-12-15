@@ -26,7 +26,6 @@
 <br/>
 
 #### Most Used Languages:
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweeetlatte&langs_count=8&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&border_radius=27&layout=compact" />
 
 <br/>
