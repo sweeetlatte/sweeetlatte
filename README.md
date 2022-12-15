@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs" width="32" height="32"/>&nbsp;&nbsp;
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweeetlatte&langs_count=8&text_color=c9d1d9&title_color=c9d1d9&icon_color=000000&border_radius=27&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweeetlatte&langs_count=8&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9&icon_color=000000&border_radius=27&layout=compact" />
 
 <br/>
 
