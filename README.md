@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Latte</b></h1>
+<h1 align="center"><b>Hi, I'm Linh</b></h1>
 
 <br/>
 
