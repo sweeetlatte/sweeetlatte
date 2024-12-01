@@ -4,8 +4,6 @@
 
 ## Here's my portfolio: [![Static Badge](https://img.shields.io/badge/Linh,_Nguyen_Thi_Thuy-eeedeb)](https://www.tlinh.space/)
 
-I'm a well-organized and team-oriented individual who is passionate about developing stunning websites to deliver enjoyable user experiences
-
 <br/>
 
 ## Technical skills:
