@@ -2,7 +2,7 @@
 
 <br/>
 
-## Here's my portfolio: [![Static Badge](https://img.shields.io/badge/Linh,_Nguyen_Thi_Thuy-eeedeb)](https://www.tlinh.space/)
+## Here's my portfolio: [![Static Badge](https://img.shields.io/badge/Linh,_Nguyen_Thi_Thuy-eeedeb)](https://tlinh-portfolio.vercel.app/)
 
 <br/>
 
